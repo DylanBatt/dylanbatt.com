@@ -1,0 +1,46 @@
+{
+    "name": "B's Menu",
+    "short_name": "B's Menu",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f7f7f7",
+    "description": "A simple menu for B's restaurant",
+    "icons": [
+        {
+            "src": "/images/icon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/icon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/images/icon-48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/icon-64x64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "/images/icon-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/images/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    
+    ]
+}

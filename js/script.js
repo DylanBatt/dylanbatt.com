@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+//    registerSW();
+   
     // Mobile menu toggle
 const hamburger = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu');
@@ -60,4 +62,14 @@ document.querySelectorAll('.nav-item a').forEach(item => {
             }
         });
     }
+
+    // async function registerSW() {
+    //     if('serviceWorker' in navigator) {
+    //         try {
+    //             await navigator.serviceWorker.register('./sw.js');
+    //         } catch (e) {
+    //             console.log('ServiceWorker registration failed. ', e);
+    //         }
+    //     }
+    // }
 });
